@@ -1,2 +1,5 @@
 1. mash
 2. cook
+3. bake
+4. eat
+
